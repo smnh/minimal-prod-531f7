@@ -1,0 +1,10 @@
+{
+    "model": "Callout",
+    "presets": [{
+            "label": "Button bottom",
+            "data": {
+                "body": "Hello World"
+            }
+        }
+    ]
+}
