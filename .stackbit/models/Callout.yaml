@@ -1,0 +1,9 @@
+# .stackbit/models/Callout.yaml
+
+name: Callout
+label: Callout
+groups:
+  - sectionComponent
+fields:
+  - type: text
+    name: body
