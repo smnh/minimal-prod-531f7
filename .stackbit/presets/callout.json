@@ -3,7 +3,7 @@
     "presets": [{
             "label": "Button bottom",
             "data": {
-                "body": "colors-c",
+                "body": "Hello World",
                 "styles": {
                     "self": {
                         "height": "auto",
