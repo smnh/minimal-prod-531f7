@@ -1,7 +1,7 @@
 {
     "model": "Callout",
     "presets": [{
-            "label": "Button bottom",
+            "label": "Callout preset",
             "thumbnail": "images/cta-bottom.png",
             "data": {
                 "body": "Hello World",
