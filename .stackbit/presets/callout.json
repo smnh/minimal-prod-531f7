@@ -2,7 +2,6 @@
     "model": "Callout",
     "presets": [{
             "label": "Button bottom",
-            "thumbnail": "images/cta-bottom.png",
             "data": {
                 "colors": "colors-c",
                 "styles": {
