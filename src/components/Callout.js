@@ -1,7 +1,11 @@
 // src/components/Callout.js
 
-const Callout = () => {
-    return <p>Hello! I am a callout.</p>
+const Callout = ({ body }) => {
+    return (
+        <div>
+            <p>{body}</p>
+        </div>
+    )
 }
 
 export default Callout
