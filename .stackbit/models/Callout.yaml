@@ -1,4 +1,5 @@
 # .stackbit/models/Callout.yaml
+type: object
 name: Callout
 label: Callout
 groups:
