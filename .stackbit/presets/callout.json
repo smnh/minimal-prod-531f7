@@ -4,7 +4,7 @@
             "label": "Button bottom",
             "thumbnail": "images/cta-bottom.png",
             "data": {
-                "body": "colors-c",
+                "body": "Hello World",
                 "styles": {
                     "self": {
                         "height": "auto",
