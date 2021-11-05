@@ -2,7 +2,6 @@
     "model": "Callout",
     "presets": [{
             "label": "Callout preset",
-            "thumbnail": "images/cta-bottom.png",
             "data": {
                 "body": "Hello World",
             }
