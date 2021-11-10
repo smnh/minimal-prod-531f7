@@ -60,15 +60,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-    feature:
-      altText: Paper Airplane
-      caption: Paper Airplane
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-      url: /images/contact.png
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-c
