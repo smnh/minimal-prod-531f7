@@ -67,7 +67,6 @@ sections:
       controls: false
       elementId: ''
       type: VideoBlock
-      url: 'https://www.youtube.com/watch?v=ANikp1R8zX8'
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-c
