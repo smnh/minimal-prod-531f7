@@ -61,7 +61,6 @@ sections:
       actions:
         justifyContent: flex-start
     feature:
-      url: lorem-ipsum
       autoplay: false
       loop: false
       muted: false
