@@ -60,13 +60,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-    feature:
-      autoplay: false
-      loop: false
-      muted: false
-      controls: false
-      elementId: ''
-      type: VideoBlock
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-c
