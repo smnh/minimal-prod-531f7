@@ -61,7 +61,7 @@ sections:
       actions:
         justifyContent: flex-start
     feature:
-      altText: lorem-ipsum
+      altText: Paper Airplane
       caption: Paper Airplane
       elementId: ''
       styles:
