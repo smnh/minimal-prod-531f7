@@ -11,7 +11,7 @@
             "label": "Rubik Font",
             "thumbnail": "./images/rubik.png",
             "data": {
-                "body": "Hello World"
+                "fontName": "Roboto Font"
             }
         },
         {
