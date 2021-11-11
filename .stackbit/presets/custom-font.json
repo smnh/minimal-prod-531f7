@@ -9,7 +9,7 @@
         },
         {
             "label": "Rubik Font",
-            "thumbnail": "./images/roboto.png",
+            "thumbnail": "./images/rubik.png",
             "data": {
                 "body": "Hello World"
             }
