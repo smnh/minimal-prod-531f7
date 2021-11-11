@@ -2,7 +2,7 @@
     "model": "CustomFont",
     "presets": [{
             "label": "Roboto Font",
-            "thumbnail": "./images/roboto",
+            "thumbnail": "./images/roboto.png",
             "data": {
                 "body": "Hello World"
             }
