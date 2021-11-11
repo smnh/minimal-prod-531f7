@@ -5,4 +5,4 @@ groups:
   - fonts
 fields:
   - type: string
-    name: Font Name
+    name: fontName
