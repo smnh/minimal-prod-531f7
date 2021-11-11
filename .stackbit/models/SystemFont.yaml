@@ -1,0 +1,8 @@
+type: object
+name: Callout
+label: Callout
+groups:
+  - sectionComponent
+fields:
+  - type: text
+    name: body
