@@ -15,7 +15,7 @@
             }
         },
         {
-            "label": "Rubik Font",
+            "label": "Fira Sans Font",
             "thumbnail": "./images/rubik.png",
             "data": {
                 "body": "Hello World"
