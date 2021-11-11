@@ -1,0 +1,8 @@
+type: object
+name: CustomFont
+label: Custom Font
+groups:
+  - fonts
+fields:
+  - type: string
+    name: Font Name
