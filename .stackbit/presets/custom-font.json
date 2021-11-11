@@ -13,6 +13,13 @@
             "data": {
                 "body": "Hello World"
             }
+        },
+        {
+            "label": "Rubik Font",
+            "thumbnail": "./images/rubik.png",
+            "data": {
+                "body": "Hello World"
+            }
         }
     ]
 }
