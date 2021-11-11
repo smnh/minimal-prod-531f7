@@ -8,7 +8,8 @@
             }
         },
         {
-            "label": "Roboto Font",
+            "label": "Rubik Font",
+            "thumbnail": "./images/roboto.png",
             "data": {
                 "body": "Hello World"
             }
