@@ -6,4 +6,5 @@ groups:
 fields:
   - type: string
     name: Custom Font
-  - type: 
+  - type: string
+    name 
