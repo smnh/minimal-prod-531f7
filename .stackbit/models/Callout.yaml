@@ -12,4 +12,4 @@ fields:
   - type: model
     name: font
     models:
-      - fonts
+      - CustomFont
