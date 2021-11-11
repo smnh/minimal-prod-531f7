@@ -5,6 +5,6 @@ groups:
   - fonts
 fields:
   - type: string
-    name: Custom Font
+    name: CustomFont
   - type: string
-    name 
+    name: 
