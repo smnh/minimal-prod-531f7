@@ -2,6 +2,11 @@
 title: Home
 layout: PageLayout
 sections:
+  - body: Hello World
+    font:
+      fontName: lorem-ipsum
+      fontUrl: lorem-ipsum
+    type: Callout
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
@@ -271,9 +276,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - body: Hello World
-    font:
-      fontName: lorem-ipsum
-      fontUrl: lorem-ipsum
-    type: Callout
 ---
