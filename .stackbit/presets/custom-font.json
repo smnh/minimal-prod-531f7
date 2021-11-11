@@ -16,7 +16,7 @@
         },
         {
             "label": "Fira Sans Font",
-            "thumbnail": "./images/rubik.png",
+            "thumbnail": "./images/fira-sans.png",
             "data": {
                 "body": "Hello World"
             }
