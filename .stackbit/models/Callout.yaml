@@ -13,3 +13,4 @@ fields:
     name: font
     models:
       - CustomFont
+      - SystemFont
