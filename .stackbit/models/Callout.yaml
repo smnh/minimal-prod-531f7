@@ -7,6 +7,8 @@ groups:
 fields:
   - type: text
     name: body
+  - type: string
+    name: test
   - type: model
     name: font
     groups:
