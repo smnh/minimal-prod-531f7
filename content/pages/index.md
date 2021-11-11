@@ -4,6 +4,7 @@ layout: PageLayout
 sections:
   - body: Hello World
     font:
+      type: SystemFont
       fontName: lorem-ipsum
       fontUrl: lorem-ipsum
     type: Callout
