@@ -1,0 +1,10 @@
+{
+    "model": "CustomFont",
+    "presets": [{
+            "label": "Button bottom",
+            "data": {
+                "body": "Hello World"
+            }
+        }
+    ]
+}
