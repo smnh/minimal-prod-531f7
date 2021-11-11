@@ -1,6 +1,6 @@
 type: object
-name: Callout
-label: Callout
+name: SystemFont
+label: System Font
 groups:
   - sectionComponent
 fields:
