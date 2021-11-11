@@ -1,7 +1,7 @@
 {
     "model": "CustomFont",
     "presets": [{
-            "label": "Button bottom",
+            "label": "Roboto Font",
             "data": {
                 "body": "Hello World"
             }
