@@ -3,10 +3,6 @@ title: Home
 layout: PageLayout
 sections:
   - body: Hello World
-    font:
-      type: SystemFont
-      fontName: lorem-ipsum
-      fontUrl: lorem-ipsum
     type: Callout
   - type: HeroSection
     elementId: homepage-hero-1
