@@ -271,4 +271,9 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - body: Hello World
+    font:
+      fontName: lorem-ipsum
+      fontUrl: lorem-ipsum
+    type: Callout
 ---
