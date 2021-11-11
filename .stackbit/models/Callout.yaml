@@ -11,5 +11,5 @@ fields:
     name: test
   - type: model
     name: font
-    groups:
+    models:
       - fonts
