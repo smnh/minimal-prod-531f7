@@ -10,4 +10,4 @@ fields:
   - type: model
     name: font
     groups:
-     
+      - fonts
