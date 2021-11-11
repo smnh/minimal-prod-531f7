@@ -4,5 +4,5 @@ label: System Font
 groups:
   - fonts
 fields:
-  - type: text
+  - type: string
     name: body
