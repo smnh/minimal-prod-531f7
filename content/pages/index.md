@@ -68,6 +68,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+    subtitle: 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap'
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-c
