@@ -2,7 +2,7 @@ type: object
 name: SystemFont
 label: System Font
 groups:
-  - sectionComponent
+  - fonts
 fields:
   - type: text
     name: body
