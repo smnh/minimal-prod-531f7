@@ -7,7 +7,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Roboto
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
